@@ -70,10 +70,13 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianmnh&" alt="adrianmnh" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianmnh&" alt="adrianmnh" />
 </p>
 
+
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrianmnh&rank=SSS,SS,S,AAA,AA,A,B,SECRET" alt="adrianmnh" /></a>
+  <img width="600" src="https://github-profile-trophy.vercel.app/?username=adrianmnh&rank=SECRET,SSS,SS,S,AAA,AA,Arow=2&column=4&&theme=onedark" alt="adrianmnh" />
 </p>
+<!-- <a href="https://github.com/ryo-ma/github-profile-trophy"> -->
+<!--   </a> -->
 
