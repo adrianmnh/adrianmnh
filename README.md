@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianmnh&" alt="adrianmnh" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianmnh&" alt="adrianmnh" /> -->
 </p>
 
 
