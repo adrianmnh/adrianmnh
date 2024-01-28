@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A passionate developer from New York City</h3>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmnh&show_icons=true&locale=en&langs_count=10&layout=donut-vertical&size_weight=.5&count_weight=1" alt="adrianmnh" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmnh&show_icons=true&locale=en&langs_count=10&layout=donut-vertical&size_weight=.5&count_weight=1&theme=dark" alt="adrianmnh" /></p>
 
 <div align="center">🔭 I’m currently working on a <a href="https://ecomm.adriannyc.dev">responsive E-Commerce site</a></div>
 
