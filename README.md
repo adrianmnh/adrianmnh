@@ -69,9 +69,14 @@ Here are some ideas to get you started:
 
 </p>
 
+
+
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adrianmnh&theme=dark" alt="GitHub Streak" /></a>
-<!-- <img src="https://streak-stats.demolab.com?user=adrianmnh&theme=dark" /> -->
+
+  
+<!-- exclude weekends from stats -->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adrianmnh&theme=dark&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+  <!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adrianmnh&theme=dark" alt="GitHub Streak" /></a> -->
 </p>
 
 <p align="center">
