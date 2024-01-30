@@ -71,13 +71,13 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">
 
   
 <!-- exclude weekends from stats -->
+<p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adrianmnh&theme=dark&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-  <!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adrianmnh&theme=dark" alt="GitHub Streak" /></a> -->
 </p>
+  <!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adrianmnh&theme=dark" alt="GitHub Streak" /></a> -->
 
 <p align="center">
   <img width="600" src="https://github-profile-trophy.vercel.app/?username=adrianmnh&rank=SECRET,SSS,SS,S,AAA,AA,Arow=2&column=4&&theme=onedark" alt="adrianmnh" />
