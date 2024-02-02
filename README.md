@@ -80,7 +80,7 @@ Here are some ideas to get you started:
   <!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adrianmnh&theme=dark" alt="GitHub Streak" /></a> -->
 
 <p align="center">
-  <img width="600" src="https://github-profile-trophy.vercel.app/?username=adrianmnh&rank=SECRET,SSS,SS,S,AAA,AA,Arow=2&column=4&&theme=onedark" alt="adrianmnh" />
+  <img width="600" src="https://github-profile-trophy.vercel.app/?username=adrianmnh&rank=SECRET,SSS,SS,S,AAA,AA,Arow=2&column=5&&theme=onedark" alt="adrianmnh" />
 </p>
 <!-- <a href="https://github.com/ryo-ma/github-profile-trophy"> -->
 <!--   </a> -->
