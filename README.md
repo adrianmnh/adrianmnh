@@ -16,17 +16,48 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">A passionate developer from New York City</h3>
+<!-- <h3 align="center">A full-stack developer and aspiring software engineer</h3>
+<h3 align="center">based in NYC</h3> -->
+
+
+<div align="center" >
+
+**`A full-stack developer and aspiring software engineer`**
+<br/>
+**`based in NYC`**
+  
+</div>
+
+<br/>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmnh&show_icons=true&locale=en&langs_count=10&layout=donut-vertical&size_weight=.5&count_weight=1&theme=dark" alt="adrianmnh" /></p>
 
-<div align="center">🔭 I’m currently working on a <a href="https://ecomm.adriannyc.dev">responsive E-Commerce site</a></div>
+<br/>
+
+<div align="center" ><h3> I’m currently working on <a href="https://ecomm.adriannyc.dev">
+  SHOPPER, a responsive E-Commerce site</a> featuring</h3>
+
+  **`react frontend hosted on gh-pages with multi-page routing,`**
+<br/>
+  **`single node backend api deployed on aws EC2,`**
+<br/>
+  **`MongoDB JSON obj database, static assets stored on aws S3, and EC2 admin panel`**
+
+  <p> (message me on linkedin to request admin panel demo and credentials)</p>
+</div>
+
+ <!--
+ <h3>frontend hosted on gh-pages with multipage routing, multi-node backend api cluster running on aws ec2 </h3>
+ -->
+ <br/>
+ <hr/>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/adrianmnh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrianmnh" height="30" width="40" /></a>
 </p>
 
+<br/>
 <h3 align="center">Languages and Tools</h3>
 <p align="center"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -43,6 +74,7 @@ Here are some ideas to get you started:
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
+<br/>
   <h3 align="center">Frontend and Frameworks</h3>
 <p align="center"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -54,7 +86,7 @@ Here are some ideas to get you started:
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
 </p>
 
-  
+<br/>
 <h3 align="center">Database and Backend</h3>
 <p align="center"> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
@@ -66,18 +98,18 @@ Here are some ideas to get you started:
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-
 </p>
 
-
-
-
+<br/>
+<br/>
   
 <!-- exclude weekends from stats -->
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adrianmnh&theme=dark&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </p>
   <!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adrianmnh&theme=dark" alt="GitHub Streak" /></a> -->
+
+<br/>
 
 <p align="center">
   <img width="700" src="https://github-profile-trophy.vercel.app/?username=adrianmnh&rank=SECRET,SSS,SS,S,AAA,AA,Arow=2&column=5&&theme=onedark" alt="adrianmnh" />
