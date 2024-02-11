@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Adrian</h1>
+<h1 align="center">Hi 👋🏼, I'm Adrian</h1>
 <!-- <h3 align="center">A full-stack developer and aspiring software engineer</h3>
 <h3 align="center">based in NYC</h3> -->
 
